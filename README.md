@@ -16,3 +16,7 @@ Understand the fundamentals of Android design.
 Apply Material Design guidelines to an mobile application.
 Separate an interface into surfaces.
 Effectively use transitions and motion.
+
+**Screenshots**
+
+![ALT]( https://github.com/rohan35/xyz-Reader/blob/master/Screenshot_20170421-101007_small.png )
